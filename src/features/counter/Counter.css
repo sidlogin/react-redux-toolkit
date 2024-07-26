@@ -1,0 +1,14 @@
+button {
+    padding: 1rem;
+    margin: 0.5rem;
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+}
+
+input {
+    padding: 1rem;
+    width: 176px;
+    margin: 1rem 0;
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+}
